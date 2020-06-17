@@ -1,2 +1,2 @@
 # noobweb
-reading
+learning
